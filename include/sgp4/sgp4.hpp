@@ -48,10 +48,8 @@
 
 // using namespace System;
 
+#include <cmath>
 #include <iostream>
-#include <math.h>
-#include <stdio.h>
-#include <string.h>
 
 #define SGP4Version "SGP4 Version 2016-03-09"
 
